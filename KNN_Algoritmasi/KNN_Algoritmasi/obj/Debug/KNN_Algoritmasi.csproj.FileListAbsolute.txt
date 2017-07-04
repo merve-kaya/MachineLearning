@@ -1,0 +1,6 @@
+e:\belgeler\visual studio 2015\Projects\KNN_Algoritmasi\KNN_Algoritmasi\bin\Debug\KNN_Algoritmasi.exe.config
+e:\belgeler\visual studio 2015\Projects\KNN_Algoritmasi\KNN_Algoritmasi\obj\Debug\KNN_Algoritmasi.csprojResolveAssemblyReference.cache
+e:\belgeler\visual studio 2015\Projects\KNN_Algoritmasi\KNN_Algoritmasi\bin\Debug\KNN_Algoritmasi.exe
+e:\belgeler\visual studio 2015\Projects\KNN_Algoritmasi\KNN_Algoritmasi\bin\Debug\KNN_Algoritmasi.pdb
+e:\belgeler\visual studio 2015\Projects\KNN_Algoritmasi\KNN_Algoritmasi\obj\Debug\KNN_Algoritmasi.exe
+e:\belgeler\visual studio 2015\Projects\KNN_Algoritmasi\KNN_Algoritmasi\obj\Debug\KNN_Algoritmasi.pdb
